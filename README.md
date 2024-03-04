@@ -1,9 +1,5 @@
 # 🐺 Beowulf File Retriever Bot 🐺
-----
 
-<img alt="image" src="https://github.com/m-fol/beowulf-bot/assets/139060140/47852ea0-11ce-4d72-bd58-fc78f8def404">
-
----
 <p> <img src="https://github.com/m-fol/beowulf-bot/assets/139060140/cff59273-d8f6-4b83-815a-114f522cc0f0" alt="Image" height="20">
 Beowulf-Bot is a Discord bot that gets its namesake from Beowulf, a character from the fighting game Skullgirls <i>(cause he's my favorite, there's really not much thought here)</i>. It's designed to retrieve Google Drive file status and provide updates to your team about the last time a file was edited. With commands like `!fileinfo` and `!last`, it helps keep track of file activity within specified folders. <img src="https://github.com/m-fol/beowulf-bot/assets/139060140/cff59273-d8f6-4b83-815a-114f522cc0f0" alt="Image"  height="20"> </p>
 
@@ -14,6 +10,8 @@ Beowulf-Bot is a Discord bot that gets its namesake from Beowulf, a character fr
 - `!last`: Shows the last edited folder, indicating the folder with the most recently added file.
 
 ## Usage
+
+<img align="right" width="250" src="https://github.com/m-fol/beowulf-bot/assets/139060140/11358ee0-f3b3-47c0-8830-8b5103b22e98"/>
 
 To use Beowulf Bot and run it from your computer, follow these steps:
 
@@ -41,6 +39,7 @@ To use Beowulf Bot and run it from your computer, follow these steps:
    - Other available commands include `!refreshtoken`, which manually refreshes the token incase something goes wrong.
 
 ## Configuration
+<img align="right" width="250" src="https://github.com/m-fol/beowulf-bot/assets/139060140/ffcd91fd-a375-416a-8446-8d8afb0fa610"/>
 
 In order to run Beowulf, you need to provide the following configurations:
 
@@ -49,9 +48,10 @@ In order to run Beowulf, you need to provide the following configurations:
 - Google Cloud Project Credentials:
   - `clientId`: Client ID obtained from the Google Cloud Console.
   - `clientSecret`: Client secret obtained from the Google Cloud Console.
+- <h3>Make sure to not forget to connect your Google account containing the project while initializing it!</h3>
+
 
 ## Contributing
-
 Contributions are welcome! If you have any ideas, suggestions, or improvements, feel free to submit a pull request or open an issue.
 
 ## License
