@@ -5,7 +5,7 @@
 
 ---
 <p> <img src="https://github.com/m-fol/beowulf-bot/assets/139060140/cff59273-d8f6-4b83-815a-114f522cc0f0" alt="Image" height="20">
-Beowulf-Bot is a Discord bot that features Beowulf, a character from the fighting game Skullgirls <i>(cause he's my favorite, there's really not much thought here)</i>. It's designed to retrieve Google Drive file status and provide updates to your team about the last time a file was edited. With commands like `!fileinfo` and `!last`, it helps keep track of file activity within specified folders. <img src="https://github.com/m-fol/beowulf-bot/assets/139060140/cff59273-d8f6-4b83-815a-114f522cc0f0" alt="Image"  height="20"> </p>
+Beowulf-Bot is a Discord bot that gets its namesake from Beowulf, a character from the fighting game Skullgirls <i>(cause he's my favorite, there's really not much thought here)</i>. It's designed to retrieve Google Drive file status and provide updates to your team about the last time a file was edited. With commands like `!fileinfo` and `!last`, it helps keep track of file activity within specified folders. <img src="https://github.com/m-fol/beowulf-bot/assets/139060140/cff59273-d8f6-4b83-815a-114f522cc0f0" alt="Image"  height="20"> </p>
 
 
 ## Features
